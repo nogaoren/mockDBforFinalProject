@@ -6,7 +6,7 @@
       "genre": "Drama",
       "length_minutes": 142,
       "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
-      "trailer": <iframe width="560" height="315" src="https://www.youtube.com/embed/PLl99DlL6b4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>, 
+      "trailerUrl": "https://www.youtube.com/embed/PLl99DlL6b4", 
 	"recommended": true
     },
     {
@@ -16,7 +16,7 @@
       "genre": "Crime, Drama",
       "length_minutes": 175,
       "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
-      "trailer": <iframe width="560" height="315" src="https://www.youtube.com/embed/sY1S34973zA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>, 
+      "trailerUrl": "https://www.youtube.com/embed/sY1S34973zA", 
 	"recommended": false
     },
     {"id":3,
@@ -25,7 +25,7 @@
       "genre": "Action, Crime, Drama",
       "length_minutes": 152,
       "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
-      "trailer": <iframe width="560" height="315" src="https://www.youtube.com/embed/EXeTwQWrcwY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>, 
+      "trailerUrl": "https://www.youtube.com/embed/EXeTwQWrcwY", 
 	"recommended": true
     },
     {"id":4,
@@ -34,7 +34,7 @@
       "genre": "Action, Adventure, Sci-Fi",
       "length_minutes": 148,
       "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
-      "trailer": <iframe width="560" height="315" src="https://www.youtube.com/embed/YoHD9XEInc0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>, 
+      "trailerUrl": "https://www.youtube.com/embed/YoHD9XEInc0", 
 	"recommended": true
     },
     {"id":5,
@@ -43,7 +43,7 @@
       "genre": "Adventure, Drama, Fantasy",
       "length_minutes": 178,
       "description": "A meek hobbit of the Shire and eight companions set out on a journey to Mount Doom to destroy the One Ring and the dark lord Sauron.",
-      "trailer": <iframe width="560" height="315" src="https://www.youtube.com/embed/V75dMMIW2B4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>, 
+      "trailerUrl": "https://www.youtube.com/embed/V75dMMIW2B4", 
 	"recommended": false
     },
     {"id":6,
@@ -52,7 +52,7 @@
       "genre": "Action, Sci-Fi",
       "length_minutes": 136,
       "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
-      "trailer": <iframe width="560" height="315" src="https://www.youtube.com/embed/vKQi3bBA1y8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>, 
+      "trailerUrl": "https://www.youtube.com/embed/vKQi3bBA1y8", 
 	"recommended": true
     },
     {"id":7,
@@ -61,7 +61,7 @@
       "genre": "Crime, Drama",
       "length_minutes": 154,
       "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
-      "trailer": <iframe width="560" height="315" src="https://www.youtube.com/embed/s7EdQ4FqbhY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>, 
+      "trailerUrl": "https://www.youtube.com/embed/s7EdQ4FqbhY", 
 	"recommended": false
     },
     {"id":8,
@@ -70,7 +70,7 @@
       "genre": "Drama, Romance",
       "length_minutes": 142,
       "description": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other historical events unfold through the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
-      "trailer": <iframe width="560" height="315" src="https://www.youtube.com/embed/XHhAG-YLdk8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>, 
+      "trailerUrl": "https://www.youtube.com/embed/XHhAG-YLdk8", 
 	"recommended": true
     },
     {"id":9,
@@ -79,7 +79,7 @@
       "genre": "Crime, Drama, Thriller",
       "length_minutes": 118,
       "description": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
-      "trailer": <iframe width="560" height="315" src="https://www.youtube.com/embed/W6Mm8Sbe__o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>, 
+      "trailerUrl": "https://www.youtube.com/embed/W6Mm8Sbe__o", 
 	"recommended": false
     },
     {"id":10,
@@ -88,7 +88,7 @@
       "genre": "Biography, Drama, History",
       "length_minutes": 195,
       "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
-      "trailer": <iframe width="560" height="315" src="https://www.youtube.com/embed/gG22XNhtnoY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>, 
+      "trailerUrl": "https://www.youtube.com/embed/gG22XNhtnoY", 
 	"recommended": false
     },
     {"id":11,
@@ -97,7 +97,7 @@
       "genre": "Crime, Drama, Fantasy",
       "length_minutes": 189,
       "description": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
-      "trailer": <iframe width="560" height="315" src="https://www.youtube.com/embed/Ki4haFrqSrw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>, 
+      "trailerUrl": "https://www.youtube.com/embed/Ki4haFrqSrw", 
 	"recommended": false
     },
     {"id":12,
@@ -106,7 +106,7 @@
       "genre": "Crime, Drama",
       "length_minutes": 202,
       "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
-      "trailer": <iframe width="560" height="315" src="https://www.youtube.com/embed/OA1ij0alE0w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>, 
+      "trailerUrl": "https://www.youtube.com/embed/OA1ij0alE0w", 
 	"recommended": false
     },
     {"id":13,
@@ -115,7 +115,7 @@
       "genre": "Drama",
       "length_minutes": 139,
       "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
-      "trailer": <iframe width="560" height="315" src="https://www.youtube.com/embed/qtRKdVHc-cE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>, 
+      "trailerUrl": "https://www.youtube.com/embed/qtRKdVHc-cE", 
 	"recommended": false
     },
     {"id":14,
@@ -124,7 +124,7 @@
       "genre": "Action, Adventure, Fantasy",
       "length_minutes": 121,
       "description": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",
-      "trailer": <iframe width="560" height="315" src="https://www.youtube.com/embed/vZ734NWnAHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>, 
+      "trailerUrl": "https://www.youtube.com/embed/vZ734NWnAHA", 
 	"recommended": false
     },
     {
@@ -134,7 +134,7 @@
       "genre": "Adventure, Drama, Fantasy",
       "length_minutes": 179,
       "description": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
-      "trailer": <iframe width="560" height="315" src="https://www.youtube.com/embed/LbfMDwc4azU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>, 
+      "trailerUrl": "https://www.youtube.com/embed/LbfMDwc4azU", 
 	"recommended": false
     }
  ] 
