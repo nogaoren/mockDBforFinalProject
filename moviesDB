@@ -38,7 +38,7 @@
 	"recommended": true
     },
     {"id":5,
-      "name": "The Lord of the Rings: The Fellowship of the Ring",
+      "name": "The Lord of the Rings - The Fellowship of the Ring",
       "director": "Peter Jackson",
       "genre": "Adventure, Drama, Fantasy",
       "length_minutes": 178,
@@ -101,7 +101,7 @@
 	"recommended": false
     },
     {"id":12,
-      "name": "The Godfather: Part II",
+      "name": "The Godfather - Part II",
       "director": "Francis Ford Coppola",
       "genre": "Crime, Drama",
       "length_minutes": 202,
@@ -119,7 +119,7 @@
 	"recommended": false
     },
     {"id":14,
-      "name": "Star Wars: Episode IV - A New Hope",
+      "name": "Star Wars - Episode IV - A New Hope",
       "director": "George Lucas",
       "genre": "Action, Adventure, Fantasy",
       "length_minutes": 121,
@@ -129,7 +129,7 @@
     },
     {
       "id":15,
-      "name": "The Lord of the Rings: The Two Towers",
+      "name": "The Lord of the Rings - The Two Towers",
       "director": "Peter Jackson",
       "genre": "Adventure, Drama, Fantasy",
       "length_minutes": 179,
